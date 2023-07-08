@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\escinf\desktop\vectorautomaticoobjdinamico\main.cpp
+	<iostream>
+
+1567009933 source:c:\users\escinf\desktop\vectorautomaticoobjdinamico\src\persona.cpp
+	"persona.h"
+
+1567010506 c:\users\escinf\desktop\vectorautomaticoobjdinamico\include\persona.h
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+
+1567010763 source:c:\users\escinf\desktop\vectorautomaticoobjdinamico\src\contenedor.cpp
+	"contenedor.h"
+
+1567010506 c:\users\escinf\desktop\vectorautomaticoobjdinamico\include\contenedor.h
+	"persona.h"
+
